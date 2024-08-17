@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/devhasibulislam/" target="_blank">
+  <a href="www.linkedin.com/in/talib-uddin-461104258" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
