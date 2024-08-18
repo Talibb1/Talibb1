@@ -19,7 +19,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=800&duration=3500&pause=1000&color=1b6fec&vCenter=true&width=535&height=30&lines=1%2B+years+of+coding+Experience;Experienced+MERN+Stack+Developer.;Experienced+Full+Stack+Developer.;Proficient+Web+Developer.;Exploring+Insights." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=800&duration=3500&pause=1000&color=1b6fec&vCenter=true&width=535&height=30&lines=Experienced+MERN+Stack+Developer.;Experienced+Full+Stack+Developer.;Proficient+Web+Developer.;Exploring+Insights." alt="Typing SVG" />
 
 ###
 
