@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm <b><mark>Talib Uddin</mark></b><br><br>- 🔭 I’m MERN Stack Developer<br>- 📚 I'm currently learning GraphQL<br>- 📫 How to reach me <b><a href="talibuddinqazim@gmail.com">talibuddinqazim@gmail.com</a></b><br>-⚡ Fun fact I think I am funny.</p>
+<p align="left">I'm <b><mark>Talib Uddin</mark></b><br><br>- 🔭 I’m MERN Stack Developer<br>- 📫 How to reach me <b><a href="talibuddinqazim@gmail.com">talibuddinqazim@gmail.com</a></b><br>-⚡ Fun fact I think I am funny.</p>
 
 ###
 
