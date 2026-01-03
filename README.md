@@ -12,7 +12,7 @@ I’m an efficient <b>Full Stack Developer</b> experienced in building scalable 
 
 - 🔭 Full Stack Developer  
 - 🌱 Always learning new tech  
-- 📫 Contact: <a href="mailto:talibuddinqazim@gmail.com">talibuddinqazim@gmail.com</a>  
+- 📫 Contact: <a href="mailto:talibuddinqazi@gmail.com">talibuddinqazim@gmail.com</a>  
 - 🤝 Open to exciting freelance, remote, or collaborative opportunities
 
 ---
