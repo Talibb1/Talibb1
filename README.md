@@ -54,7 +54,7 @@ I’m an efficient <b>Full Stack Developer</b> experienced in building scalable 
   <a href="https://www.linkedin.com/in/talib-uddin-461104258" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0078d4?style=flat&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
-  <a href="mailto:talibuddinqazim@gmail.com" target="_blank">
+  <a href="mailto:talibuddinqazi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-ea4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/Talibb1" target="_blank">
